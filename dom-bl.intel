@@ -1059,6 +1059,7 @@ x6r.top	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
 xaskkks.work	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
 xn--42cfi4bng4ba5aod3av5bb2gyao8b4dxy.com	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
 xn--80a5ault.xn--p1ai	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
+xn--80agc3ej.xn--p1ai	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
 xn--80ajgx5cc.xn--p1ai	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
 xn--90a7aad1d.xn--p1ai	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
 xn--90aaid1a3c5dmr.xn--p1ai	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
@@ -1067,6 +1068,7 @@ xn--90acbjm3dvb4b.xn--p1ai	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
 xn--90aecd4aao9fvd.xn--p1ai	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
 xn--90ahf5cf1bac8c.xn--p1ai	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
 xn--90ahghnh2c5b.xn--p1ai	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
+xn--90ai2a4agsih.xn--p1ai	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
 xn--90aib7ae5c.xn--p1ai	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
 xn--90alqhha.xn--p1ai	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
 xn--abcdelossueos-skb.com.ar	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
